@@ -1,0 +1,7 @@
+.user-info {
+border-bottom: 1px solid gray;
+}
+.user-details {
+    width:  60%;
+    display: inline-block;
+}

@@ -1,0 +1,8 @@
+.user-details {
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+}
+.input-field {
+    padding: 5px;
+}
